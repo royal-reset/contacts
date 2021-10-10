@@ -1,0 +1,2 @@
+# contacts
+static contact list
